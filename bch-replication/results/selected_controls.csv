@@ -1,0 +1,41 @@
+outcome,step,control
+Violent crime,I_y (predicts crime),xV0*t
+Violent crime,I_d (predicts abortion),Lprison
+Violent crime,I_d (predicts abortion),Lpolice
+Violent crime,I_d (predicts abortion),Lur
+Violent crime,I_d (predicts abortion),Dinc0
+Violent crime,I_d (predicts abortion),Dur0^2
+Violent crime,I_d (predicts abortion),Linc0
+Violent crime,I_d (predicts abortion),Dinc0*t
+Violent crime,I_d (predicts abortion),Dbeer0*t
+Violent crime,I_d (predicts abortion),Linc0*t
+Violent crime,I_d (predicts abortion),Lprison0^2*t^2
+Violent crime,I_d (predicts abortion),incBar
+Violent crime,I_d (predicts abortion),incBar*t
+Violent crime,I_d (predicts abortion),xV0
+Property crime,I_y (predicts crime),Linc0^2*t
+Property crime,I_y (predicts crime),Linc0^2*t^2
+Property crime,I_y (predicts crime),afdcBar^2
+Property crime,I_d (predicts abortion),Lprison
+Property crime,I_d (predicts abortion),Lpolice
+Property crime,I_d (predicts abortion),Lur
+Property crime,I_d (predicts abortion),Linc
+Property crime,I_d (predicts abortion),Dinc0
+Property crime,I_d (predicts abortion),Linc0
+Property crime,I_d (predicts abortion),Dinc0*t
+Property crime,I_d (predicts abortion),Dbeer0*t
+Property crime,I_d (predicts abortion),Lprison0^2*t
+Property crime,I_d (predicts abortion),Lprison0^2*t^2
+Property crime,I_d (predicts abortion),Lbeer0^2*t^2
+Property crime,I_d (predicts abortion),incBar
+Property crime,I_d (predicts abortion),xP0
+Property crime,single selection,Linc0^2*t^2
+Property crime,single selection,afdcBar^2*t
+Murder,I_d (predicts abortion),Lur
+Murder,I_d (predicts abortion),Dur0^2
+Murder,I_d (predicts abortion),Lprison0*t
+Murder,I_d (predicts abortion),Linc0*t
+Murder,I_d (predicts abortion),Dbeer0*t^2
+Murder,I_d (predicts abortion),incBar*t
+Murder,I_d (predicts abortion),xM0
+Murder,I_d (predicts abortion),xM0*t
